@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+body h1{
+    font-size: 40px;
+}
+.box{
+    height: 40vmin;
+    width: 60vmin;
+    background-color: rgb(43, 198, 226);
+    margin:0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 1.5rem rgba(0,0,0,1.2);
+    font-size: 25px;
+   
+    
+}
+.box input{
+    height: 30px;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 5px;
+    border:none;
+}
+.box input:hover,button:hover{
+    box-shadow: 0 0 2rem rgba(0,3,2,1.1);
+}
+.ans{
+    background-color: antiquewhite;
+    height: 30px;
+    width: 80%;
+    border-radius: 5px;
+    margin:0 auto;
+    margin-top: 30px;
+}
+.box button{
+    height: 35px;
+    width: 30%;
+    background-color: chocolate;
+    border: none;
+    margin-top: 20px;
+    border-radius: 15px;
+    
+}
